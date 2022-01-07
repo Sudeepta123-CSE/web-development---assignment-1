@@ -1,0 +1,132 @@
+            body {
+                font-family: 'Poppins', sans-serif;
+            }
+            
+            h1 {
+                font-size: 40px;
+                padding-top: 2%;
+                padding-bottom: 2%;
+            }
+            
+            p {
+                font-size: 18px;
+                padding-top: 4%;
+                padding-bottom: 4%;
+            }
+            
+            .pink-color {
+                color: pink;
+            }
+            
+            section {
+                display: flex;
+            }
+            
+            .half-width {
+                width: 60%;
+                padding-left: 10%;
+            }
+            
+            .half-width img {
+                width: 85%;
+            }
+            
+            .link-button {
+                text-decoration: none;
+                background-image: linear-gradient(orange, yellow);
+                padding: 10px 40px;
+                border-radius: 5px;
+            }
+            
+            .wish {
+                text-align: center;
+            }
+            
+            .Mission {
+                width: 220px;
+                border: 1px solid yellowgreen;
+                border-radius: 10px;
+                box-shadow: 4px 4px 12px yellowgreen;
+                margin-left: 10%;
+                background-color: yellowgreen;
+            }
+            
+            .div-img img {
+                width: 100%;
+            }
+            
+            .Vision {
+                width: 220px;
+                border: 1px solid tomato;
+                border-radius: 10px;
+                box-shadow: 4px 4px 12px tomato;
+                margin-left: 15%;
+                background-color: tomato;
+            }
+            
+            .Goals {
+                width: 220px;
+                border: 1px solid brown;
+                border-radius: 10px;
+                box-shadow: 4px 4px 12px brown;
+                margin-left: 15%;
+                background-color: brown;
+            }
+            
+            .connections-inbetween {
+                display: flex;
+            }
+            
+            section {
+                display: flex;
+                margin-top: 150px;
+                ;
+            }
+            
+            .darkorange-color {
+                color: darkorange;
+            }
+            
+            .Achievement {
+                text-align: center;
+            }
+            
+            .Classroom {
+                width: 200px;
+                border: 1px solid bisque;
+                border-radius: 10px;
+                box-shadow: 4px 4px 12px bisque;
+                margin-left: 10%;
+                background-color: bisque;
+            }
+            
+            .MCQ {
+                width: 200px;
+                border: 1px solid aqua;
+                border-radius: 10px;
+                box-shadow: 4px 4px 12px aqua;
+                margin-left: 15%;
+                background-color: aqua;
+            }
+            
+            .Assignment {
+                width: 200px;
+                border: 1px solid firebrick;
+                border-radius: 10px;
+                box-shadow: 4px 4px 12px firebrick;
+                margin-left: 15%;
+                background-color: firebrick;
+            }
+            
+            .div-img img {
+                width: 100%;
+            }
+            
+            .Web-development-course {
+                display: flex;
+            }
+            
+            .lastpart {
+                text-align: center;
+                background-color: fuchsia;
+            }
